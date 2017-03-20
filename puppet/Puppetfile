@@ -1,0 +1,5 @@
+#Manage Puppet Module dependencies with librarian-puppet
+
+forge 'http://forge.puppetlabs.com'
+
+
